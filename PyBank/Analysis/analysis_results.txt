@@ -1,0 +1,5 @@
+Total Months: 86
+Net Total Proft/Loss: 22564198
+Average Change: 4500.458823529411
+Greatest Increase In Profits: 1862002
+Greatest Decrease In Profits: -1825558
